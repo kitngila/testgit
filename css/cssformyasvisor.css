@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(235, 198, 201); 
+    margin: 0; 
+    padding: 0;
+    color:rgb(27, 9, 40);
+}
+.headline{
+    text-align: center;
+    background-color: rgb(77, 77, 229);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+    margin: 0;
+}
+.fortext{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+};
